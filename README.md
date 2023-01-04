@@ -1,1 +1,1 @@
-# -CoreJava-Clothing-Management-System
+# CoreJava-Clothing-Management-System
